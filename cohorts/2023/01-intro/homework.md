@@ -2,7 +2,7 @@
 
 ### Set up the environment
 
-You need to install Python, NumPy, Pandas, Matplotlib and Seaborn. For that, you can the instructions from
+You need to install Python, NumPy, Pandas, Matplotlib and Seaborn. For that, you can use the instructions from
 [06-environment.md](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/01-intro/06-environment.md).
 
 ### Question 1
@@ -108,7 +108,7 @@ Has it changed?
 
 ## Deadline
 
-The deadline for submitting is 18 September 2022 (Monday), 23:00 CEST (Berlin time).
+The deadline for submitting is 18 September 2023 (Monday), 23:00 CEST (Berlin time).
 
 After that, the form will be closed.
 
